@@ -1,2 +1,7 @@
 # hospital-management-system
-Full project asp.net
+Technologies Used:
+
+C# programming language
+.NET framework
+Visual Studio IDE
+SQL Server for database management
