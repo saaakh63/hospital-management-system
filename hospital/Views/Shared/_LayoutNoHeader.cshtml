@@ -1,0 +1,37 @@
+﻿@* <!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
+ *@
+<!-- _LayoutNoHeader.cshtml -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Common head elements, CSS links, etc. -->
+    <title>@ViewData["Title"]</title>
+    <!-- Include necessary CSS files, meta tags, etc. -->
+</head>
+<body>
+    <div class="content">
+        <!-- Render the content of individual pages here -->
+        @RenderBody()
+    </div>
+
+    <div class="footer">
+        <!-- Common footer content -->
+    </div>
+
+    <!-- Include necessary JavaScript files, scripts, etc. -->
+
+</body>
+</html>

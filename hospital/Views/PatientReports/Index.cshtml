@@ -1,0 +1,72 @@
+﻿@model IEnumerable<hospital.models.PatientReport>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Report_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Report_MedicationName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Report_Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.prescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Patient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Doctor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Report_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Report_MedicationName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Report_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.prescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Patient.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Doctor.Doctor_Contact)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.PatientReport_Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PatientReport_Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PatientReport_Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

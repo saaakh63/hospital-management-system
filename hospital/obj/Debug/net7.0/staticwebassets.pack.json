@@ -1,0 +1,949 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\hospital.bundle.scp.css",
+      "PackagePath": "staticwebassets\\hospital.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\contact-img.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\dots.png",
+      "PackagePath": "staticwebassets\\images\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\images\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\post4.png",
+      "PackagePath": "staticwebassets\\images\\post4.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\signup.jpg",
+      "PackagePath": "staticwebassets\\images\\signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\slider-img.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\t1.png",
+      "PackagePath": "staticwebassets\\images\\t1.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\t2.png",
+      "PackagePath": "staticwebassets\\images\\t2.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\t3.png",
+      "PackagePath": "staticwebassets\\images\\t3.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\t4.png",
+      "PackagePath": "staticwebassets\\images\\t4.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\images\\treatment-side-img.jpg",
+      "PackagePath": "staticwebassets\\images\\treatment-side-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\departments-1.jpg",
+      "PackagePath": "staticwebassets\\img\\departments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\departments-2.jpg",
+      "PackagePath": "staticwebassets\\img\\departments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\departments-3.jpg",
+      "PackagePath": "staticwebassets\\img\\departments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\departments-4.jpg",
+      "PackagePath": "staticwebassets\\img\\departments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\departments-5.jpg",
+      "PackagePath": "staticwebassets\\img\\departments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\doctors\\doctors-1.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctors-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\doctors\\doctors-2.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctors-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\doctors\\doctors-3.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctors-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\doctors\\doctors-4.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors\\doctors-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\signup.js",
+      "PackagePath": "staticwebassets\\js\\signup.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\saraKhalefa\\Desktop\\HospitalSARA222\\HospitalSARA222\\Hospital\\hospital\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.hospital.props",
+      "PackagePath": "build\\hospital.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.hospital.props",
+      "PackagePath": "buildMultiTargeting\\hospital.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.hospital.props",
+      "PackagePath": "buildTransitive\\hospital.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.hospital.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

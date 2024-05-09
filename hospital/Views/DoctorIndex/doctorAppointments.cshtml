@@ -1,0 +1,25 @@
+﻿@model List<hospital.models.Appointment>
+
+<h1>Doctor's Appointments</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Patient Name</th>
+            <th>Department</th>
+            <th>Appointment Date</th>
+            <!-- Add more columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.Patient_name</td>
+                <td>@appointment.Department.Department_Name</td>
+                <td>@appointment.Appointment_Date</td>
+                <!-- Add more cells as needed -->
+            </tr>
+        }
+    </tbody>
+</table>

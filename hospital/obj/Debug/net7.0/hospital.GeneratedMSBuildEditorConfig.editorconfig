@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = hospital
+build_property.RootNamespace = hospital
+build_property.ProjectDir = C:\Users\saraKhalefa\Desktop\HospitalSARA222\HospitalSARA222\Hospital\hospital\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\saraKhalefa\Desktop\HospitalSARA222\HospitalSARA222\Hospital\hospital
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Appointments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Appointments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/DoctorIndex/doctorAppointments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9ySW5kZXhcZG9jdG9yQXBwb2ludG1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/DoctorIndex/DoctorIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9ySW5kZXhcRG9jdG9ySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Doctor/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXGxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Doctor/LoginAsDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXExvZ2luQXNEb2N0b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Doctor/LoginAsManager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXExvZ2luQXNNYW5hZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Doctor/PreDrIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXFByZURySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/PrePatientIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVQYXRpZW50SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/signout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaWdub3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Home/treatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0cmVhdG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/ManagerIndex/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckluZGV4XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/ManagerIndex/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckluZGV4XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/ManagerIndex/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckluZGV4XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/ManagerIndex/ListDoctors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuYWdlckluZGV4XExpc3REb2N0b3JzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientIndex/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluZGV4XEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientIndex/Appointment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluZGV4XEFwcG9pbnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientIndex/PatientIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluZGV4XFBhdGllbnRJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientIndex/PatientReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluZGV4XFBhdGllbnRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientIndex/Treatment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluZGV4XFRyZWF0bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientReports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlcG9ydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientReports/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlcG9ydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientReports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlcG9ydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientReports/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlcG9ydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/PatientReports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlcG9ydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Patient/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Patient/PrePatientIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxQcmVQYXRpZW50SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Patient/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Shared/Layoutpatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dHBhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Shared/_LayoutNoHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb0hlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saraKhalefa/Desktop/HospitalSARA222/HospitalSARA222/Hospital/hospital/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-a6wzyq9pvw
